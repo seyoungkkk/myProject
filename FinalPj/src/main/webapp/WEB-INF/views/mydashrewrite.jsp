@@ -2270,8 +2270,17 @@
 														<input type="file" class="custom-file-input" name="example-file-input-custom">
 														<label class="custom-file-label">Upload Files</label>
 													</div>
-												</div>
-												<div class="p-2 border mb-4">
+												</div>	
+					
+											</div>
+										</div>
+									</div>
+									</div>	
+									
+									<div class="col-md-12">
+									<div class="form-group ">
+									
+													<div class="p-2 border mb-4">
 													<div class="upload-images d-flex">
 														<div>
 															<img src="../images/faces/male/25.jpg" alt="img" class="w73 h73 border p-0">
@@ -2284,11 +2293,12 @@
 															<a href="#" class="float-right btn btn-icon btn-danger btn-sm mt-5"><i class="fa fa-trash-o"></i></a>
 														</div>
 													</div>
-												</div>
-											</div>
-										</div>
+												</div>	
 									</div>
-									</div>									
+									</div>
+												
+									
+																	
 								</div>
 							</div>
 							<div class="card-footer" align="right">
