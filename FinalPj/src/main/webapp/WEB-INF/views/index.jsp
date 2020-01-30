@@ -716,7 +716,7 @@
 				<div class="header-text mb-0">
 					<div class="container">
 						<div class="text-center text-white ">
-							<h1 class="mb-1">한나영 김소담 윤별 김세영 송승훈</h1>
+							<h1 class="mb-1">한나영 김소담 윤별 김세영 송승훈~~</h1>
 							<p>한나영 김소담 윤별 김세영 송승훈 한나영 김소담 윤별 김세영 송승훈 한나영 김소담 윤별 김세영 송승훈</p>
 						</div>
 						<div class="row">
