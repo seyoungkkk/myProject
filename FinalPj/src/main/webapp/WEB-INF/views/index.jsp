@@ -716,8 +716,8 @@
 				<div class="header-text mb-0">
 					<div class="container">
 						<div class="text-center text-white ">
-							<h1 class="mb-1">한나영 김소담 윤별 김세영 송승훈</h1>
-							<p>한나영 김소담 윤별 김세영 송승훈 한나영 김소담 윤별 김세영 송승훈 한나영 김소담 윤별 김세영 송승훈</p>
+							<h1 class="mb-1">수정해보기 수정해보기 수정해보기 수정해보기</h1>
+							<p>수정해보기 수정해보기 수정해보기 수정해보기수정해보기 수정해보기 수정해보기 수정해보기깃깃깃깃깃기식식시기식시기ㅣㅅ깃기식식식시</p>
 						</div>
 						<div class="row">
 							<div class="col-xl-10 col-lg-12 col-md-12 d-block mx-auto">
